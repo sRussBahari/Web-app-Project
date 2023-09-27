@@ -27,3 +27,9 @@ https://scottsecurityresume.azurewebsites.net/
 
 ![Azure_Front_Door](./Azure_Front_Door_implementation.png)
 
+3) Implementation of a WAF rule (Web Application Firewall rule) which is ensuring the protection of the Web Application such as blocking certain IP address to reach the Web Application with malicious intention or block common SQL injection or Cross-Site Scription (XSS). Many custom rules can be made through the WAF to secure the Web Application.
+
+![WAF_custom_rule](./WAF_Custom_Rule.png)
+
+
+
