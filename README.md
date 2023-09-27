@@ -1,5 +1,5 @@
 # Web-app-Project
-Date Jun2023
+Date Jun 2023
 My first web application with common concept about cybersecurity
 
 ## Overview
@@ -17,7 +17,13 @@ Launching of my first web Application and its security to make it more user-frie
 
 ## Screenshots
 https://scottsecurityresume.azurewebsites.net/
+1) Deployment of the web Application through Azure Cloud with my own modifications of text and images
 
 ![Web_Application_1](./Web_App_Scott_1.png)
 ![Web_Application_2](./Web_App_Scott_2.png)
 ![Web_Application_3](./Web_App_Scott_3.png)
+
+2) Implementation of Azure Front Door which is a service offered by Microsoft Azure that provides a wide ranges of features designed to secure the web application including global HTTP/HTTPS load balancing to manage the traffic within the Web Application, a WAF (Web application Firewall) to protect from common exploits and vulnerabilities, DDoS protection and many more...
+
+![Azure_Front_Door](./Azure_Front_Door_implementation.png)
+
